@@ -1,4 +1,4 @@
-<h1>Olá!! Eu sou a Eden 🌻</h1>
+<h1>Olá!! Eu sou a Gabriela 🌻</h1>
 
 <h2>Tecnologias que uso</h2>
 
