@@ -8,6 +8,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="right" alt="Gabi" height="150" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1051232867298066444/1079896981314470010/picrew-profile.gif">
 </div>
 <br>
 
