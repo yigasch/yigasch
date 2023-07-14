@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB307F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriela+Schmidt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB307F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h2>📌 Tecnologias que uso</h2>
 
@@ -26,15 +26,7 @@
 </div>
 <br>
 
-<h3>Sobre mim</h3>
 
-- Já faz mais de um ano que me encontrei dentro do mundo da programação e da tecnologia, foram muitas pesquisas, conteúdo online e principalmente aulas na ETEC, onde estou no segundo ano do curso técnico de Informática para internet;
-
-- No tempo livre eu leio livros, escrevo e desenho;
-
-- Atualmente estou trabalhando em protótipos de projeto de TCC.
-
-##
 
 <div> 
   <a href="https://instagram.com/_minerva.art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
