@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB307F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB307F&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 I'm a **Front-End and Game Developer** with a strong interest in creating intuitive, accessible, and meaningful digital experiences.
 
